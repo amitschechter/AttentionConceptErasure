@@ -1,6 +1,6 @@
 # ARCE: Attention Redirection for Concept Erasure
 
-Official implementation of **"Concept Erasure via Attention Redirection"** (CVPR 2026).
+Official implementation of **"Concept Erasure via Attention Redirection"** (CVPR Findings 2026).
 
 [[Paper]](https://openaccess.thecvf.com/content/CVPR2026F/papers/Schechter_Concept_Erasure_via_Attention_Redirection_CVPRF_2026_paper.pdf) · [[Code]](https://github.com/amitschechter/AttentionConceptErasure)
 
